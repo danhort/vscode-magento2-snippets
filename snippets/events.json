@@ -22,8 +22,7 @@
 	"Observer": {
 		"prefix": "m2.events.observer",
 		"body": [
-			"<observer name=\"${1:observer_name}\"",
-			"\tinstance=\"${2:Fully Qualified Classname}\" />"
+			"<observer name=\"${1:observer_name}\" instance=\"${2:Fully Qualified Classname}\" />"
 		],
 		"description": "Magento 2 event observer"
 	}

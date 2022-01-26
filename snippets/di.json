@@ -29,9 +29,7 @@
     "DI Plugin": {
         "prefix": "m2.di.plugin",
         "body": [
-            "<plugin name=\"${1:plugin_name}\" ",
-            "\ttype=\"${2:Fully Qualified Classname}\"",
-            "\tsortOrder=\"${3}\"/>$0"
+            "<plugin name=\"${1:plugin_name}\" type=\"${2:Fully Qualified Classname}\" sortOrder=\"${3}\"/>$0"
         ]
     },
 	"DI Type Arguments": {

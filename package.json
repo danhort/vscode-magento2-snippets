@@ -1,83 +1,89 @@
 {
-    "name": "magento2-snippets",
-    "displayName": "Magento 2 Snippets",
-    "description": "A collection of Magento 2 snippets",
-    "version": "0.1.3",
-    "publisher": "jerrylopez",
-    "icon": "images/icon.png",
-    "license": "MIT",
-    "bugs": {
-        "url": "https://github.com/jerrylopez/vscode-magento2-snippets/issues"
-    },
-    "homepage": "https://github.com/jerrylopez/vscode-magento2-snippets",
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/jerrylopez/vscode-magento2-snippets.git"
-    },
-    "engines": {
-        "vscode": "^1.15.0"
-    },
-    "categories": [
-        "Snippets"
-    ],
-    "contributes": {
-        "snippets": [
-            {
-                "language": "xml",
-                "path": "./snippets/layout/argument.json"
-            },
-            {
-                "language": "xml",
-                "path": "./snippets/layout/attribute.json"
-            },
-            {
-                "language": "xml",
-                "path": "./snippets/layout/block.json"
-            },
-            {
-                "language": "xml",
-                "path": "./snippets/layout/container.json"
-            },
-            {
-                "language": "xml",
-                "path": "./snippets/layout/move.json"
-            },
-            {
-                "language": "xml",
-                "path": "./snippets/layout/remove.json"
-            },
-            {
-                "language": "xml",
-                "path": "./snippets/layout/scaffold.json"
-            },
-            {
-                "language": "xml",
-                "path": "./snippets/layout/update.json"
-            },
-            {
-                "language": "xml",
-                "path": "./snippets/di.json"
-            },
-            {
-                "language": "xml",
-                "path": "./snippets/module/module.json"
-            },
-            {
-                "language": "php",
-                "path": "./snippets/module/registration.json"
-            },
-            {
-                "language": "json",
-                "path": "./snippets/module/composer.json"
-            },
-            {
-                "language": "xml",
-                "path": "./snippets/events.json"
-            },
-            {
-                "language": "xml",
-                "path": "./snippets/routes.json"
-            }
-        ]
-    }
+	"name": "magento2-snippets",
+	"displayName": "Magento 2 Snippets",
+	"description": "A collection of Magento 2 snippets",
+	"version": "0.1.3",
+	"publisher": "jerrylopez",
+	"icon": "images/icon.png",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/jerrylopez/vscode-magento2-snippets/issues"
+	},
+	"homepage": "https://github.com/jerrylopez/vscode-magento2-snippets",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/jerrylopez/vscode-magento2-snippets.git"
+	},
+	"engines": {
+		"vscode": "^1.15.0"
+	},
+	"categories": [
+		"Snippets"
+	],
+	"contributes": {
+		"snippets": [
+			{
+				"language": "xml",
+				"path": "./snippets/layout/argument.json"
+			},
+			{
+				"language": "xml",
+				"path": "./snippets/layout/attribute.json"
+			},
+			{
+				"language": "xml",
+				"path": "./snippets/layout/block.json"
+			},
+			{
+				"language": "xml",
+				"path": "./snippets/layout/container.json"
+			},
+			{
+				"language": "xml",
+				"path": "./snippets/layout/move.json"
+			},
+			{
+				"language": "xml",
+				"path": "./snippets/layout/remove.json"
+			},
+			{
+				"language": "xml",
+				"path": "./snippets/layout/scaffold.json"
+			},
+			{
+				"language": "xml",
+				"path": "./snippets/layout/update.json"
+			},
+			{
+				"language": "xml",
+				"path": "./snippets/di.json"
+			},
+			{
+				"language": "xml",
+				"path": "./snippets/module/module.json"
+			},
+			{
+				"language": "php",
+				"path": "./snippets/module/registration.json"
+			},
+			{
+				"language": "json",
+				"path": "./snippets/module/composer.json"
+			},
+			{
+				"language": "xml",
+				"path": "./snippets/events.json"
+			},
+			{
+				"language": "xml",
+				"path": "./snippets/routes.json"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "c29b147e-9fd8-4b73-a571-8f1f155f85e9",
+		"publisherDisplayName": "Jerry Lopez",
+		"publisherId": "4ad250cc-0ca2-4de8-96b5-ae2b9e694ac4",
+		"isPreReleaseVersion": false
+	}
 }

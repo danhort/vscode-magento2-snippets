@@ -3,8 +3,7 @@
 		"prefix": "m2.routes",
 		"body": [
 			"<?xml version=\"1.0\"?>",
-			"<config xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\"",
-			"\t\txsi:noNamespaceSchemaLocation=\"urn:magento:framework:App/etc/routes.xsd\">",
+			"<config xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:noNamespaceSchemaLocation=\"urn:magento:framework:App/etc/routes.xsd\">",
 			"\t$0",
 			"</config>"
 		],
